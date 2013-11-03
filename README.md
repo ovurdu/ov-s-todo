@@ -1,4 +1,4 @@
-ov-s-todo
+ov's-todo
 =========
 
-with bootstrap 3.
+ov's todo is a simple PHP application which birngs your todos. you may crete new todos, organize and cancel.
